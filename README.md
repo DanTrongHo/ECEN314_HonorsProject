@@ -1,4 +1,4 @@
-# An exploration on Image Analysis and Discrete Time Fourier Transforms
+# An exploration of image analysis and discrete time fourier transforms
 
 ManimTest is the main file that you should run, the naming was because I was testing manim libraries in it before filling it up with code, and I forgot to change it back
 
