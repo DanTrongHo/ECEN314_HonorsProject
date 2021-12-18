@@ -1,4 +1,4 @@
-# ECEN314_HonorsProject
+# An exploration on Image Analysis and Discrete Time Fourier Transforms
 
 ManimTest is the main file that you should run, the naming was because I was testing manim libraries in it before filling it up with code, and I forgot to change it back
 
