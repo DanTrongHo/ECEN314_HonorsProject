@@ -4,7 +4,7 @@ ManimTest is the main file that you should run, the naming was because I was tes
 
 After compiling and running, you have to run the main() function first
 
-Google Drive Video:
+Video Overview:
 https://drive.google.com/file/d/13YoGK-ZIarHR0G49FuzNEq-_lhQs8bTA/view?usp=sharing
 
 Sources used:
