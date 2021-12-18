@@ -4,6 +4,9 @@ ManimTest is the main file that you should run, the naming was because I was tes
 
 After compiling and running, you have to run the main() function first
 
+Google Drive Video:
+https://drive.google.com/file/d/13YoGK-ZIarHR0G49FuzNEq-_lhQs8bTA/view?usp=sharing
+
 Sources used:
 
 https://www.dsprelated.com/freebooks/mdft/Fourier_Transforms_Continuous_Discrete_Time_Frequency.html
